@@ -1,0 +1,22 @@
+{
+  "name": "Via Catalana",
+  "short_name": "ViaCatalana",
+  "description": "Proposta ciutadana per a una xarxa ferroviària del segle XXI a Catalunya",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAF8",
+  "theme_color": "#1D9E75",
+  "lang": "ca",
+  "icons": [
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

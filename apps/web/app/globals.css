@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&display=swap');
+
+:root {
+  --color-verd: #1D9E75;
+  --color-verd-fosc: #0F6E56;
+  --color-verd-clar: #E1F5EE;
+  --color-verd-mig: #5DCAA5;
+
+  --color-negre: #0F0F0E;
+  --color-gris-fosc: #1C1C1A;
+  --color-gris-mig: #3A3A37;
+  --color-gris: #6B6B67;
+  --color-gris-clar: #AEAEA8;
+  --color-gris-molt-clar: #F4F3EF;
+  --color-blanc: #FAFAF8;
+
+  --color-perill: #C0392B;
+  --color-alerta: #D35400;
+
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'DM Sans', system-ui, sans-serif;
+
+  --max-width: 1100px;
+  --padding-lateral: clamp(1.25rem, 5vw, 3rem);
+
+  --transicio: 0.2s ease;
+  --radi: 6px;
+  --radi-gran: 12px;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-blanc);
+  color: var(--color-negre);
+  line-height: 1.7;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: var(--font-body);
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+img, svg {
+  display: block;
+  max-width: 100%;
+}
+
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--padding-lateral);
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* Leaflet override - elimina atribució per defecte */
+.leaflet-control-attribution {
+  font-size: 10px;
+  opacity: 0.6;
+}
