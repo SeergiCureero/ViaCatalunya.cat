@@ -1,0 +1,46 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+S'aplica a: directori data/ (datasets, GeoJSON, fitxers de dades processades)
+
+=======================================================================
+
+Aquest és un resum llegible per humans de la llicència completa.
+Text legal complet: https://creativecommons.org/licenses/by/4.0/legalcode
+
+=======================================================================
+
+Ets lliure de:
+
+  Compartir — copiar i redistribuir el material en qualsevol mitjà o format
+  Adaptar — remesclar, transformar i construir a partir del material
+  per a qualsevol propòsit, fins i tot comercialment.
+
+El llicenciador no pot revocar aquestes llibertats mentre segueixis
+els termes de la llicència.
+
+Sota les condicions següents:
+
+  Atribució — Has de donar el crèdit apropiat, proporcionar un enllaç
+  a la llicència, i indicar si s'han fet canvis. Pots fer-ho de qualsevol
+  manera raonable, però no d'una manera que suggereixi que el llicenciador
+  t'avala a tu o al teu ús.
+
+Sense restriccions addicionals — No pots aplicar termes legals ni mesures
+tecnològiques que restringeixin legalment a d'altres fer allò que la llicència
+permet.
+
+=======================================================================
+
+Com citar les dades de Via Catalana:
+
+  Via Catalana (2024). Datasets de mobilitat i infraestructura ferroviària
+  de Catalunya. Llicència CC BY 4.0.
+  https://github.com/via-catalana/via-catalana
+
+Les fonts originals de cada dataset estan documentades a data/sources.md
+amb les seves llicències respectives.
+
+=======================================================================
+
+Per al codi font: vegeu LICENSE (EUPL-1.2)
+Per als documents: vegeu LICENSE-docs (CC BY-SA 4.0)

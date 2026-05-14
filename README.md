@@ -55,7 +55,9 @@ via-catalana/
 | Dades geoespacials | GeoJSON (ICGC, IDEC, OSM) |
 | Processament de dades | Python + GeoPandas |
 | Desplegament | Vercel |
-| Llicència | CC BY 4.0 (dades i docs) + MIT (codi) |
+| Llicència codi | EUPL-1.2 |
+| Llicència dades | CC BY 4.0 |
+| Llicència documents | CC BY-SA 4.0 |
 
 ---
 
@@ -89,10 +91,13 @@ El projecte és en fase inicial activa. El Kanban públic està disponible al Tr
 
 ## Llicència
 
-- **Codi**: MIT License
-- **Dades i documentació**: Creative Commons BY 4.0
+| Capa | Llicència | Fitxer |
+|---|---|---|
+| Codi (`apps/`, `scripts/`) | EUPL-1.2 | [`LICENSE`](LICENSE) |
+| Dades (`data/`) | CC BY 4.0 | [`LICENSE-data`](LICENSE-data) |
+| Documents (`docs/`) | CC BY-SA 4.0 | [`LICENSE-docs`](LICENSE-docs) |
 
-Pots usar, modificar i redistribuir lliurement qualsevol part d'aquest projecte citant-ne l'origen.
+Pots usar, modificar i redistribuir lliurement qualsevol part d'aquest projecte citant-ne l'origen. La clàusula copyleft de la EUPL garanteix que el codi no pugui fer-se privatiu. La clàusula ShareAlike de la CC BY-SA garanteix que les adaptacions dels documents mantinguin sempre la llicència oberta.
 
 ---
 

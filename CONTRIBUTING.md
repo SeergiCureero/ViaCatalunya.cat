@@ -121,4 +121,10 @@ No s'acceptaran contribucions que distorsionin les dades, que siguin ofensives o
 
 ## Dubtes
 
+Les contribucions de codi s'alliberen sota **EUPL-1.2**, les de dades sota **CC BY 4.0** i les de documents sota **CC BY-SA 4.0**, d'acord amb el directori on es trobin. En fer una contribució acceptes aquestes condicions.
+
+---
+
+## Dubtes
+
 Obre un issue amb l'etiqueta `pregunta` o participa a GitHub Discussions. No hi ha preguntes estúpides.
