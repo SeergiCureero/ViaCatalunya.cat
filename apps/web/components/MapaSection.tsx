@@ -49,7 +49,7 @@ export default function MapaSection() {
             className={`${styles.tab} ${capa === 'proposada' ? styles.actiu : ''}`}
             onClick={() => setCapa('proposada')}
           >
-            Proposta Via Catalana
+            Proposta Via Catalunya
           </button>
         </div>
 

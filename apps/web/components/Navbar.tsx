@@ -22,7 +22,7 @@ export default function Navbar() {
   return (
     <header className={`${styles.navbar} ${scrolled ? styles.scrolled : ''}`}>
       <div className={`container ${styles.inner}`}>
-        <a href="/" className={styles.logo} aria-label="Via Catalana — inici">
+        <a href="/" className={styles.logo} aria-label="Via Catalunya — inici">
           Via<span>Catalana</span>
         </a>
 

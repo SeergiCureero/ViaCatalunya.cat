@@ -30,7 +30,7 @@ Documentació de totes les fonts usades al projecte, amb llicències i URLs de d
 
 Tots els datasets s'han seleccionat per ser compatibles amb la llicència CC BY 4.0
 del directori `data/`. En publicar dades derivades, cal citar les fonts originals
-a més del projecte Via Catalana.
+a més del projecte Via Catalunya.
 
 Davant de qualsevol dubte sobre compatibilitat de llicències, obriu un issue
 amb l'etiqueta `dades`.

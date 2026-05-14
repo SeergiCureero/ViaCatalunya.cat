@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://viacatalana.cat/sitemap.xml
+Sitemap: https://viacatalunya.cat/sitemap.xml

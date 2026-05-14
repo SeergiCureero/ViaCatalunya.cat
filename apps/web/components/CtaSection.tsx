@@ -10,7 +10,7 @@ export default function CtaSection() {
             Una proposta oberta<br />per a tothom
           </h2>
           <p className={styles.desc}>
-            Via Catalana és un projecte de codi obert. El codi, les dades i els
+            Via Catalunya és un projecte de codi obert. El codi, les dades i els
             documents de proposta són públics i col·laboratius. Pots contribuir
             com a desenvolupador, investigador, dissenyador o simplement
             compartint la proposta.
@@ -26,7 +26,7 @@ export default function CtaSection() {
               GitHub del projecte →
             </a>
             <a
-              href="mailto:hola@viacatalana.cat"
+              href="mailto:hola@viacatalunya.cat"
               className={styles.btnSecundari}
             >
               Contactar

@@ -17,7 +17,7 @@ export default function Footer() {
           >
             GitHub
           </a>
-          <a href="mailto:hola@viacatalana.cat" className={styles.link}>
+          <a href="mailto:hola@viacatalunya.cat" className={styles.link}>
             Contacte
           </a>
         </div>

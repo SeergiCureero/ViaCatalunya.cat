@@ -1,8 +1,8 @@
-# Via Catalana
+# Via Catalunya
 
 **Proposta ciutadana oberta per a una xarxa ferroviària del segle XXI a Catalunya.**
 
-Via Catalana és un projecte de codi obert que combina dades, cartografia interactiva i argumentari polític per demostrar que la inversió ferroviària és la palanca que pot redistribuir població, feina i capital per tot el territori català.
+Via Catalunya és un projecte de codi obert que combina dades, cartografia interactiva i argumentari polític per demostrar que la inversió ferroviària és la palanca que pot redistribuir població, feina i capital per tot el territori català.
 
 ---
 

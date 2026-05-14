@@ -1,6 +1,6 @@
-# Com contribuir a Via Catalana
+# Com contribuir a Via Catalunya
 
-Gràcies per voler participar. Via Catalana és un projecte obert i necessitem persones de perfils molt diversos: no cal saber programar per contribuir-hi de manera valuosa.
+Gràcies per voler participar. Via Catalunya és un projecte obert i necessitem persones de perfils molt diversos: no cal saber programar per contribuir-hi de manera valuosa.
 
 ---
 

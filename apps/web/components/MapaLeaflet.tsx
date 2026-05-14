@@ -112,7 +112,7 @@ export default function MapaLeaflet({ capa }: Props) {
           opacity: 0,
           dashArray: '10 5',
         }).addTo(map)
-        l.bindTooltip(`<strong>${eix.nom}</strong> — proposta Via Catalana`, { sticky: true })
+        l.bindTooltip(`<strong>${eix.nom}</strong> — proposta Via Catalunya`, { sticky: true })
         eixosRef.current.push(l)
       })
 
